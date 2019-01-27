@@ -17,4 +17,4 @@ Join us and learn about the MTC Transformation Academy. Each month you and your 
  
 Reserve your seat today for one of our next MTC Transformation Academy Day.
 
-[**Click here to Register**](aka.ms/mtcacademy)
+# Register [here](aka.ms/mtcacademy)
