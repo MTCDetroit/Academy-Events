@@ -29,6 +29,8 @@ Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tre
 
 ## Azure Learning Resources for Developers
 
+- [Visual Studio 2019 Preview](http://aka.ms/vs-preview)
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [Microsoft Connect() 2018](https://www.microsoft.com/en-us/connectevent/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Azure Function Library - Open Source Library](https://serverlesslibrary.net/)
