@@ -17,4 +17,4 @@
  
 Reserve your seat today for one of our next MTC Transformation Academy Day.
 
-[Click here to Register](https://www.linkedin.com/in/randy-pagels/)
+[Click here to Register](aka.ms/mtcacademy)
