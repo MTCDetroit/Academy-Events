@@ -6,9 +6,9 @@
 
 ## Audience: Strategic and Solution Application Architects
 
-- Jan 30, 2019 - [Azure Developer Day](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x5716987abcd)
-- Feb 28, 2019 - [DevOps on Azure]()
-- Mar 28, 2019 - [Serverless Workshop]()
-- Apr 25, 2019 - [Microservices & Container]()
-- May 23, 2019 - [AI for Developers]()
-- Jun 27, 2019 - [TBD]()
+- Jan 30, 2019 - Register for [Azure Developer Day](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x5716987abcd)
+- Feb 28, 2019 - Register for [DevOps on Azure]()
+- Mar 28, 2019 - Register for [Serverless Workshop]()
+- Apr 25, 2019 - Register for [Microservices & Container]()
+- May 23, 2019 - Register for [AI for Developers]()
+- Jun 27, 2019 - Register for [TBD]()
