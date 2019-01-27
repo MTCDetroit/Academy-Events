@@ -9,7 +9,7 @@ Join us and learn about the MTC Transformation Academy. Each month you and your 
  
 2) **CISO: Start Here to Break Through to the Cloud**: Full-day briefings and workshops on topics such as cloud security, high availability, disaster recovery, cloud governance, hybrid cloud networking and infrastructure as code. Audience CIO, CISO, Strategic Architects, IT and Operations
  
-3) **Modern Applications**: Full-day briefings and workshops on topics related to the design, build, test, package and deployment of modern software solutions that leverage microservice architecture, event driven computing, containers and optimized data stores. Audience: Strategic and Solution Application Architects
+3) [**Modern Applications**](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev): Full-day briefings and workshops on topics related to the design, build, test, package and deployment of modern software solutions that leverage microservice architecture, event driven computing, containers and optimized data stores. Audience: Strategic and Solution Application Architects
  
 4) **Big Data**: Full-day briefings and workshops on the design and implementation of a robust, scalable, big data platform. Topics include analyzing massive amounts of data in real time, managing structured, unstructured, and streaming data to drive impactful solutions like BI and reporting that use advanced and real-time analytics. Audience: Data Architects and Data Scientists
  
