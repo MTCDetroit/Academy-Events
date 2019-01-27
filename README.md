@@ -1,4 +1,4 @@
-## JOIN THE MTC TRANSFORMATION ACADEMY
+## Join the MTC Transformation Academy
 ### Microsoft Technology Center, 1 Campus Martius Ste. 500, Detroit, Michigan 48226
 
 The MTC Transformation Academy is a monthly learn and grow program hosted at the Microsoft Technology Center that provides full-day briefings and hands-on workshops for customers seeking to accelerate their journey to the cloud.
