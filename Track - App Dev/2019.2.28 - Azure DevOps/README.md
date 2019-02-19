@@ -30,7 +30,7 @@
 
 ## Slides
 
-Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev/2019.1.30%20-%20Azure%20Dev%20Day/Slides)
+Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev/2019.2.28%20-%20Azure%20DevOps/Slides)
 
 ## Azure Learning Resources for Developers
 
