@@ -19,7 +19,8 @@
 - [Randy Pagels](https://www.linkedin.com/in/randy-pagels/) - Azure Apps & Infrastructure Technical Specialist
 - [Alex Lowe](https://www.linkedin.com/in/alexclowe/) - Azure Apps & Infrastructure Technical Specialist
 - [Charles Stacy Harris III](https://www.linkedin.com/in/charlesstacyharrisiii/) - Senior Software Architect
-- [Alec Deitz](#/) - Software Engineer, Insight
+- Alec Deitz, Alec.Deitz@insight.com - Software Engineer, Insight
+- [Alec Deitz](Alec.Deitz@insight.com) - Software Engineer, Insight
 - [Zachary Schroeder](https://www.linkedin.com/in/zachary-schroeder-141509a1) - Software Engineer, Insight
 
 ## Partner
