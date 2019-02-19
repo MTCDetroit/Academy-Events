@@ -2,7 +2,7 @@
 ### Microsoft Technology Center, 1 Campus Martius Ste. 500, Detroit, Michigan 48226
 
 ## Agenda
-
+a
 - Azure App Service
 - Serverless Computing
 - Microservices & Containers
