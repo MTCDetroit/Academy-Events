@@ -25,8 +25,7 @@
 
 ## Slides
 
-Slides can be downloaded [here](#
-)
+Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev/2019.3.28%20-%20Serverless%20Workshop)
 
 ## Azure Learning Resources for Developers
 
