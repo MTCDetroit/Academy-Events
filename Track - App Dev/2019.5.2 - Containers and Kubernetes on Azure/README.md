@@ -29,6 +29,7 @@ Labs can be downloaded [here](#)
 ## Azure Learning Resources for Developers
 
 - [Visual Studio 2019](https://visualstudio.microsoft.com/)
+- [Visual Studio 2019 Launch Event](https://visualstudio.microsoft.com/vs2019-launch/)
 - [.Net Core Home](https://dotnet.microsoft.com/)
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
