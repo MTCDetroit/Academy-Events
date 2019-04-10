@@ -19,7 +19,7 @@
 
 ## Slides
 
-Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev/2019.3.28%20-%20Serverless%20Workshop/Slides)
+Slides can be downloaded [here](https://github.com/MTCDetroit/Academy-Events/tree/master/Track%20-%20App%20Dev/2019.5.2%20-%20Containers%20and%20Kubernetes%20on%20Azure/Slides)
 
 <!--
 ## Hands on Labs
